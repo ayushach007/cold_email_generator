@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-chroma
+python-dotenv
+streamlit
+notebook
+pandas
