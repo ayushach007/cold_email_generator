@@ -45,10 +45,10 @@ class Chains:
             {job}
             
             ### INSTRUCTIONS
-            You are Sujal, a Business Development Manager at Data Vanguard, an AI, Data Science, and Data Engineering Consulting company. 
+            You are Krish, a Business Development Manager at JP Morgan, an AI, Data Science, and Data Engineering Consulting company. 
             Your task is to write a compelling cold email to potential clients regarding the job description mentioned above. 
-            Highlight the capabilities of Data Vanguard and explain how these capabilities can benefit the client's business.
-            Include the most relevant links from the portfolio to showcase Data Vanguard's expertise and successful projects {link_list}.
+            Highlight the capabilities of JP Morgan and explain how these capabilities can benefit the client's business.
+            Include the most relevant links from the portfolio to showcase JP Morgan's expertise and successful projects {link_list}.
             Ensure the email is professional, concise, and persuasive.
             
             ### EMAIL (NO PREAMBLE):
