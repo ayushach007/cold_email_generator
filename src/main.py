@@ -5,6 +5,15 @@ from chains import Chains
 from portfolio import Portfolio
 
 def app(llm: str, portfolio: str, clean_text: str):
+    """
+    Function to run the Streamlit app
+    
+    Args:
+        llm: Chains object 
+        portfolio: Portfolio object
+        clean_text: function to clean text
+    """
+    st.title('Cold Email Generatoremail 📧')
     url_input = st.text_input('Enter the URL of the job posting:', value="https://jobs.nike.com/job/R-43863?from=job%20search%20funnel")
     if st.button('Submit'):
         try:
