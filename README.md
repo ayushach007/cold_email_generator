@@ -20,12 +20,12 @@ Get a quick look at the **Smart Outreach Email Generator** in action! Below are 
 1. **App UI**  
    *A clean and intuitive interface where users can easily input details and generate personalized emails.*
 
-   ![App UI Screenshot](data/Screenshot%202024-11-09%20210114.png)
+   ![App UI Screenshot](images/Screenshot%202024-11-09%20210114.png)
 
 2. **Generated Email Response**  
    *An example of a crafted cold email response that the app generates based on the input details.*
 
-   ![Generated Email Screenshot](data/Screenshot%202024-11-09%20210156.png)
+   ![Generated Email Screenshot](images/Screenshot%202024-11-09%20210156.png)
 
 
 ---
